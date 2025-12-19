@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Mixer 1",
+    "type": "mixer",
+    "status": "Under Maintenance",
+    "lastCleanedDate": "2025-01-15"
+  },
+  {
+    "id": 2,
+    "name": "sahith",
+    "type": "mixer",
+    "status": "WORKING",
+    "lastCleanedDate": "2025-04-02"
+  }
+]
